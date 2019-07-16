@@ -1,0 +1,14 @@
+30
+0
+15
+100
+100
+
+
+	in>>n_citta;
+	in>>forma;
+	in>>T;
+	in>>n_blocchi;
+	in>>step_blocco_iniziale;
+
+
