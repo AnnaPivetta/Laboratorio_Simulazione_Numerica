@@ -1,0 +1,2 @@
+Il Jupyter notebook (che si trova nella cartella es08) contiene uno script capace di eseguire il codice (il funzionamento dello script è contenuto nel Jupyter-notebook stesso). Prima di eseguire lo script phyton compilare (make, nella cartella es08). Dal file input.dat si possono settare: mu, sigma, delta, x iniziale, numero di lanci, numero di blocchi, numero di bin per l'istogramma.
+Per eseguire il codice: compilare (make, nella cartella es08) ed eseguire (./es081)
