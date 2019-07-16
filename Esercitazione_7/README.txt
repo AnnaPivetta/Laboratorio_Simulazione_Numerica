@@ -5,4 +5,4 @@ assegnare a delta un valore iniziale (per la fase gassosa partire da un valore d
 mettere restart a zero
 mettere un basso numero di bin e un basso numero di step (non è necessario fare più di 1000 step)
 compilare (make) ed eseguire (./Monte_Carlo_NVT.exe)
-mettere la variabile restart=1 e aumentare il numero di blocchi e il numero di step per blocco
+mettere la variabile restart=1 e aumentare il numero di blocchi e il numero di step per blocco.
