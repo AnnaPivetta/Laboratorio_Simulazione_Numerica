@@ -1,0 +1,3 @@
+Il Jupyter-notebook (che è nella cartella ISING_1D) contiene uno script python che esegue il codice presente nella cartella ISING_1D (la spiegazione del funzionamento è presente nel Jupyter-notebook stesso)
+Prima di far giarare lo script Python compilare il codice, andando nella cartella ISING_1D e scrivedo make
+Se si volessero generare i dati senza l'uso dello script python: nella cartella ISING_1D, compilare (make), sceglire i parametri da file di input(scegliere "metro" 0 o 1: se vale 1 viene usato l'algoritmo di metropolis, se vale 0 quello di Gibbs) ed eseguire (./Monte_Carlo_ISING_1D.exe)

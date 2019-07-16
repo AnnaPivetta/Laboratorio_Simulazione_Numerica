@@ -1,0 +1,17 @@
+1
+2.0
+50
+1.0
+0.02
+1
+200
+2000
+
+  ReadInput >> restart;      se restart=0, si estrae la prima config con 0,5 di probabilitià spin up e 0,5 di prob spindown. se restart=1 ed esiste la configurazione precedente salvata, si riparte da quella.
+  ReadInput >> temp;
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
